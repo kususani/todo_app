@@ -1,0 +1,6 @@
+main(){
+class MyWidget extends statelessWidget{
+    String greetings;
+    MyWidget({key? key, required this.greetings})
+}
+}
